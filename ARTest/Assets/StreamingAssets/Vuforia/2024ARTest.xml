@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig>
   <Tracking>
+    <ImageTarget name="miki1" size="0.250000 0.242011" />
+    <ImageTarget name="miqi" size="0.300000 0.299427" />
     <ImageTarget name="moon" size="0.065000 0.061042" />
     <ImageTarget name="target1" size="0.065000 0.065000" />
-    <ImageTarget name="test3" size="0.100000 0.161131" />
     <ImageTarget name="test1" size="0.140000 0.092853" />
   </Tracking>
 </QCARConfig>

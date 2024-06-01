@@ -4,9 +4,9 @@
     "com.ptc.vuforia.engine": {
       "tarball": {
         "hash": "7cd44775a6dc",
-        "mtime": 1710868033000,
+        "mtime": 1716995780127,
         "size": 139976826,
-        "localPath": "/Users/ppnp/Documents/Game/ARTest/Packages/com.ptc.vuforia.engine-10.22.5.tgz"
+        "localPath": "E:\\GitHub\\ARGame\\ARTest\\Packages\\com.ptc.vuforia.engine-10.22.5.tgz"
       }
     }
   }
